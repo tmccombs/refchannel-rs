@@ -1,2 +1,1 @@
-# refchannel-rs
-Channel to synchronously pass references between threads
+Use https://gitlab.com/thayne/refcapsule instead.
